@@ -3,6 +3,7 @@ def method1(x):
     return x * 2
 
 
+# 冒号前是参数，冒号后是返回值
 method2 = lambda x: x * 2
 
 print(method2(2))
